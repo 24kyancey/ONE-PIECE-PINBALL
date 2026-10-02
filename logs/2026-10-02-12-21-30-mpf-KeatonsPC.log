@@ -1,0 +1,22 @@
+2026-10-02 12:21:30,705 : INFO : root : Loading config.
+2026-10-02 12:21:30,705 : INFO : root : Raw command line: -xt
+2026-10-02 12:21:30,707 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-10-02 12:21:30,708 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Keaton\AppData\Local\Temp\d3d72ad56e391f3e95763fbf82235c74.mpf_cache
+2026-10-02 12:21:30,793 : WARNING : ConfigProcessor : Config file in cache changed: C:\Users\Keaton\Documents\ONE-PIECE-PINBALL\modes\attract\config\attract.yaml
+2026-10-02 12:21:30,793 : INFO : ConfigProcessor : Loading config from file C:\Users\Keaton\mpf\Lib\site-packages\mpf\modes\attract\config\attract.yaml.
+2026-10-02 12:21:30,795 : INFO : ConfigProcessor : Loading config: C:\Users\Keaton\mpf\Lib\site-packages\mpf\modes\attract\config\attract.yaml
+2026-10-02 12:21:30,795 : INFO : ConfigProcessor : Loading config from file C:\Users\Keaton\Documents\ONE-PIECE-PINBALL\modes\attract\config\attract.yaml.
+2026-10-02 12:21:30,796 : INFO : ConfigProcessor : Loading config: C:\Users\Keaton\Documents\ONE-PIECE-PINBALL\modes\attract\config\attract.yaml
+2026-10-02 12:21:30,796 : INFO : ConfigProcessor : Config file cache created: C:\Users\Keaton\AppData\Local\Temp\c0e205e1cc09a8965094b4695aa3f261.mpf_cache
+2026-10-02 12:21:30,797 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Keaton\AppData\Local\Temp\b0a009d48be65e3f01ac038645353005.mpf_cache
+2026-10-02 12:21:30,798 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Keaton\AppData\Local\Temp\c0e205e1cc09a8965094b4695aa3f261.mpf_cache
+2026-10-02 12:21:30,799 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Keaton\AppData\Local\Temp\b3b9892bb1d5f1bf3ce7a084daca04a2.mpf_cache
+2026-10-02 12:21:30,800 : INFO : Machine : Mission Pinball Framework Core Engine v0.81.0.dev6
+2026-10-02 12:21:30,800 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'echo_args': True, 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2026-10-02-12-21-30-mpf-KeatonsPC.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': 'virtual', 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\Keaton\\Documents\\ONE-PIECE-PINBALL\\logs\\2026-10-02-12-21-30-mpf-KeatonsPC.log'}
+2026-10-02 12:21:30,800 : INFO : Machine : MPF path: C:\Users\Keaton\mpf\Lib\site-packages\mpf
+2026-10-02 12:21:30,800 : INFO : Machine : Machine path: C:\Users\Keaton\Documents\ONE-PIECE-PINBALL
+2026-10-02 12:21:30,800 : INFO : Machine : Platform: win32
+2026-10-02 12:21:30,800 : INFO : Machine : Python executable location: C:\Users\Keaton\mpf\Scripts\python.exe
+2026-10-02 12:21:30,800 : INFO : Machine : Python version: 3.12.10 (64-bit)
+2026-10-02 12:21:39,243 : INFO : Machine : Shutting down...
+2026-10-02 12:21:39,245 : INFO : root : MPF run loop ended.

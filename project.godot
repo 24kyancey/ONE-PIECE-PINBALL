@@ -11,9 +11,10 @@ config_version=5
 [application]
 
 config/name="One Piece Pinball"
+config/tags=PackedStringArray("pinball")
 run/main_scene="uid://ds4gduf8660uj"
 config/features=PackedStringArray("4.5", "Forward Plus")
-config/icon="res://icon.svg"
+config/icon="uid://dup126mfuyi32"
 
 [autoload]
 
@@ -32,5 +33,6 @@ enabled=PackedStringArray("res://addons/mpf-gmc/plugin.cfg")
 [file_customization]
 
 folder_colors={
+"res://assets/": "purple",
 "res://slides/": "red"
 }

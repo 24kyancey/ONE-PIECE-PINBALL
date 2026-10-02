@@ -10,16 +10,17 @@ metadata/_custom_type_script = "uid://dru3usokwlhd3"
 
 [node name="ColorRect" type="ColorRect" parent="."]
 layout_mode = 0
-offset_right = 3840.0
-offset_bottom = 2160.0
+offset_right = 1920.0
+offset_bottom = 1080.0
 color = Color(0, 1, 1, 1)
 
 [node name="Label" type="Label" parent="ColorRect"]
 layout_mode = 0
-offset_top = 600.0
-offset_right = 3840.0
-offset_bottom = 1680.0
-theme_override_font_sizes/font_size = 296
+offset_left = 184.0
+offset_top = 336.0
+offset_right = 1748.0
+offset_bottom = 740.0
+theme_override_font_sizes/font_size = 166
 text = "ONE PIECE PINBALL"
 horizontal_alignment = 1
 vertical_alignment = 1
