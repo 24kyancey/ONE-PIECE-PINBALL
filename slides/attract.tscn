@@ -1,0 +1,25 @@
+[gd_scene load_steps=2 format=3 uid="uid://mreqhoo2jp3e"]
+
+[ext_resource type="Script" uid="uid://dru3usokwlhd3" path="res://addons/mpf-gmc/classes/mpf_slide.gd" id="1_r1mnt"]
+
+[node name="Attract" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_r1mnt")
+metadata/_custom_type_script = "uid://dru3usokwlhd3"
+
+[node name="ColorRect" type="ColorRect" parent="."]
+layout_mode = 0
+offset_right = 3840.0
+offset_bottom = 2160.0
+color = Color(0, 1, 1, 1)
+
+[node name="Label" type="Label" parent="ColorRect"]
+layout_mode = 0
+offset_top = 600.0
+offset_right = 3840.0
+offset_bottom = 1680.0
+theme_override_font_sizes/font_size = 296
+text = "ONE PIECE PINBALL"
+horizontal_alignment = 1
+vertical_alignment = 1

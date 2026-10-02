@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="One Piece Pinball"
+run/main_scene="uid://ds4gduf8660uj"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
 
@@ -18,6 +19,17 @@ config/icon="res://icon.svg"
 
 MPF="*res://addons/mpf-gmc/mpf_gmc.gd"
 
+[display]
+
+window/size/viewport_width=3840
+window/size/viewport_height=2160
+
 [editor_plugins]
 
 enabled=PackedStringArray("res://addons/mpf-gmc/plugin.cfg")
+
+[file_customization]
+
+folder_colors={
+"res://slides/": "red"
+}
